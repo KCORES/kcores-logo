@@ -3,6 +3,7 @@ KCORES Logo
 
 
 ![kcoers-logo](./assets/images/kcores-logo.svg)
+![kcoers-logo-favicon](./assets/images/kcores-favicon.svg)
 
 
 
